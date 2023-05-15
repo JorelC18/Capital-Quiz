@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Caps</string>
+    <string name="answerHint">Your Answer</string>
+    <string name="question">question</string>
+    <string name="buttonDone">DONE</string>
+    <string name="score">SCORE = 0</string>
+    <string name="questionNum">Q# 1</string>
+</resources>
